@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.31101.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MicrosoftAzure", "MicrosoftAzure\MicrosoftAzure.csproj", "{BC6C753F-6CFA-469C-BD03-78B11417DFB6}"
+EndProject
+Project("{CC5FD16D-436D-48AD-A40C-5A424C6E3E79}") = "CounterRawDataReader", "CounterRawDataReader\CounterRawDataReader.ccproj", "{CF827220-F835-4DF2-AC92-2317FC54EA13}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WebRole1", "WebRole1\WebRole1.csproj", "{8C012B38-403C-4582-88ED-E9BCB2F38CCF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BC6C753F-6CFA-469C-BD03-78B11417DFB6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BC6C753F-6CFA-469C-BD03-78B11417DFB6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BC6C753F-6CFA-469C-BD03-78B11417DFB6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BC6C753F-6CFA-469C-BD03-78B11417DFB6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CF827220-F835-4DF2-AC92-2317FC54EA13}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CF827220-F835-4DF2-AC92-2317FC54EA13}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CF827220-F835-4DF2-AC92-2317FC54EA13}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CF827220-F835-4DF2-AC92-2317FC54EA13}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8C012B38-403C-4582-88ED-E9BCB2F38CCF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8C012B38-403C-4582-88ED-E9BCB2F38CCF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8C012B38-403C-4582-88ED-E9BCB2F38CCF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8C012B38-403C-4582-88ED-E9BCB2F38CCF}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
